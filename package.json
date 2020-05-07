@@ -4,6 +4,10 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1"
-  }
+    "chai": "4.2.0",
+    "express": "^4.17.1",
+    "mocha": "6.2.1"
+  },
+  "repository": "git@github.com:ichtys77/mocha_chai-prework.git",
+  "author": "Łukasz Mazurkiewicz <mazurkiewicz_l@outlook.com>"
 }
