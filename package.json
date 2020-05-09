@@ -8,6 +8,9 @@
     "express": "^4.17.1",
     "mocha": "6.2.1"
   },
+  "scripts": {
+    "test": "mocha --watch \"./{,!(node_modules)/**/}*.test.js\""
+  },
   "repository": "git@github.com:ichtys77/mocha_chai-prework.git",
   "author": "Łukasz Mazurkiewicz <mazurkiewicz_l@outlook.com>"
 }
